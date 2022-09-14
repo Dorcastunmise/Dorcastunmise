@@ -1,5 +1,5 @@
 ### Hi there 👋...I'm Dorcas Tunmise
-                ###FRONTEND WEB DEVELOPER
+                ### FRONTEND WEB DEVELOPER
 
 ![video](https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif)
 
