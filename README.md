@@ -2,7 +2,7 @@
 <h3 align="center">FRONTEND WEB DEVELOPER</h3>
 
 <!-- About me section -->
-## 👨 About Me:
+## About Me:
 
 <img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
 
