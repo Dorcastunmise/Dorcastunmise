@@ -1,6 +1,10 @@
-### Hi there 👋...I'm Dorcas Tunmise.... FRONTEND WEB DEVELOPER
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Durcas Tunmise</h1>
+<h3 align="center">FRONTEND WEB DEVELOPER</h3>
 
-![video](https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif)
+<!-- About me section -->
+## 👨 About Me:
+
+<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
 
 
 
@@ -20,10 +24,45 @@
 
 • ⚡ Fun fact: I'm good at building enticing apps before deadlines are met.
 
-### Most used Languages:
+  ---
 
-![html](https://user-images.githubusercontent.com/105108549/190128245-ee40c751-0ead-4fdf-be6c-1a0bbd016238.png) ![css](https://user-images.githubusercontent.com/105108549/190128391-a262a78d-f528-4897-b886-906da5e9945e.png) ![javascript](https://user-images.githubusercontent.com/105108549/190128962-3a78f6f6-5f84-4656-b3d0-42c86a7aa4a3.png) ![angular](https://user-images.githubusercontent.com/105108549/190128436-82fcf29d-24c6-4589-9571-dddd96e661ba.png) ![react](https://user-images.githubusercontent.com/105108549/190129951-1dd5e172-5ab0-4b39-b4a8-ccfff51e4b40.png) ![reactredux](https://user-images.githubusercontent.com/105108549/190129983-6f9b3509-b68c-46f2-9e01-c3b5c03b74b4.png)
+<!-- Technologies  section -->
 
+## 🛠️ Language and Tools I use:
 
+<p>
+ <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="angular" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="25px"/>
+<img alt="angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+</p>
+
+  ---
+
+<!-- Status section -->
+### :fire: My Stats :
+<div align="center">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dorcastunmise&show_icons=true" />
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorcastunmise&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
+<img src="https://komarev.com/ghpvc/?username=Dorcastunmise&style=flat-square&color=blue" alt="Profile counter badge" />
+</div>
+
+<!-- Contact section -->
+
+## Let's get connected  ❤️ :
+
+<p > 
+ <a href="https://www.instagram.com/dorcas_tunmise" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a> 
+ <a href="https://twitter.com/dorcas_tunmise" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>  <a href="https://www.linkedin.com/in/alimi-oluwatunmise-563915225/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+</p>
 
 
