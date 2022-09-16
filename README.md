@@ -3,7 +3,9 @@
 <div>
 <img src="https://komarev.com/ghpvc/?username=Dorcastunmise&style=flat-square&color=blue" alt="Profile counter badge" />
 </div>
+
 <!-- About me section -->
+
 ## About Me:
 
 <img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
