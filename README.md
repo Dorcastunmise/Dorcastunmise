@@ -52,7 +52,6 @@
 <div align="center">
 
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=radical">  
-      [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dorcastunmise?cardType=octocat&theme=radical)](https://git.io/awesome-stats-card)
       <img  alt="Dorcastunmise's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dorcastunmise?cardType=octocat&theme=radical" />  
      </a>
 </div>
