@@ -50,7 +50,9 @@
 ### :fire: My Stats :
 <div align="center">
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dorcastunmise&show_icons=true&theme=radical" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=radical">    
+      <img  alt="Dorcastunmise's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Dorcastunmise?cardType=octocat&theme=radical" />  
+     </a>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorcastunmise&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
