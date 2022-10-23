@@ -50,7 +50,7 @@
 ### :fire: My Stats :
 <div align="center">
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dorcastunmise&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dorcastunmise&show_icons=true&theme=radical" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dorcastunmise&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
