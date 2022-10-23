@@ -11,7 +11,7 @@
 
 
 
-• 🔭 I’m currently working on #100DaysOfCode
+• 🔭 Just completed #100DaysOfCode
 
 • 🌱 I’m currently learning React Redux
 
