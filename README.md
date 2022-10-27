@@ -11,9 +11,9 @@
 
 
 
-• 🔭 Just completed #100DaysOfCode
+• 🔭 Just completed #100DaysOfCode & React Redux
 
-• 🌱 I’m currently learning React Redux
+• 🌱 I’m currently learning TypeScript
 
 • 👯 I’m looking to collaborate on Frontend tasks
 
