@@ -19,7 +19,7 @@
 
 • 👨‍💻 All of my projects are available at https://tunmise-portfolio.vercel.app/
 
-• 💬 Ask me about Frontend Development
+• 💬 Ask me about Frontend Web Development
 
 • 🌱 An open source contributor
 
