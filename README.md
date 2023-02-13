@@ -44,6 +44,7 @@
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
  <img alt="React" src="https://img.shields.io/badge/recoil-20232A?style=for-the-badge&logo=recoil&logoColor=61DAFB" height="25px"/>
+  <img alt="PHP" src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E"  height="25px"/>
 
 </p>
 
