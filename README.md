@@ -11,9 +11,9 @@
 
 
 
-• 🔭 Just completed #100DaysOfCode, React Redux, React Recoil & TypeScript
+• 🔭 Just completed #100DaysOfCode, React Redux, React Recoil, TypeScript & PHP
 
-• 🌱 I’m currently learning PHP
+• 🌱 I’m currently learning C++
 
 • 👯 I’m looking to collaborate on Frontend tasks
 
