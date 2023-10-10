@@ -13,13 +13,13 @@
 
 • 🔭 Just completed #100DaysOfCode, React Redux, React Recoil, TypeScript & PHP
 
-• 🌱 I’m currently learning C++
+• 🌱 I’m currently learning OOP
 
-• 👯 I’m looking to collaborate on Frontend tasks
+• 👯 I’m looking to collaborate on Software Engineering tasks
 
 • 👨‍💻 All of my projects are available at https://tunmise-portfolio.vercel.app/
 
-• 💬 Ask me about Frontend Web Development
+• 💬 Ask me about Software Engineering
 
 • 🌱 An open source contributor
 
