@@ -11,9 +11,9 @@
 
 
 
-• 🔭 Just completed #100DaysOfCode, React Redux, React Recoil, TypeScript & PHP
+• 🔭 Just completed #100DaysOfCode, React Redux, React Recoil, TypeScript, PHP, OOP & SDLC
 
-• 🌱 I’m currently learning OOP
+<!-- • 🌱 I’m currently learning -->
 
 • 👯 I’m looking to collaborate on Software Engineering tasks
 
