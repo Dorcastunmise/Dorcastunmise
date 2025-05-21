@@ -11,13 +11,11 @@
 
 
 
-• 🔭 Just completed #100DaysOfCode, React Redux, React Recoil, TypeScript, PHP & SDLC
+• 🔭 Just completed #100DaysOfCode, TypeScript, PHP & SDLC
 
 • 🌱 I’m currently learning OOP
 
 • 👯 I’m looking to collaborate on Software Engineering tasks
-
-• 👨‍💻 All of my projects are available at https://tunmise-portfolio.vercel.app/
 
 • 💬 Ask me about Software Engineering
 
@@ -40,12 +38,9 @@
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/-Typescript-F05032?style=flat-square&logo=typescript&logoColor=white" height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="angular" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="25px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="React" src="https://img.shields.io/badge/recoil-20232A?style=for-the-badge&logo=recoil&logoColor=61DAFB" height="25px"/>
-  <img alt="PHP" src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E"  height="25px"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c++&logoColor=61DAFB" height="25px"/>
+<img alt="PHP" src="https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E"  height="25px"/>
 
 </p>
 
