@@ -13,7 +13,7 @@
 
 • 🔭 Just completed #100DaysOfCode, TypeScript, PHP & SDLC
 
-• 🌱 I’m currently learning OOP
+• 🌱 I’m currently learning Python
 
 • 👯 I’m looking to collaborate on Software Engineering tasks
 
