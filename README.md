@@ -1,6 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" height="50px"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30px" height="50px">
-  https://readme-typing-svg.herokuapp.com/?lines=.....+I'm+Dorcas+Tunmise)](https://git.io/typing-svg)
-</h1>
+https://readme-typing-svg.herokuapp.com/?lines=.....+I'm+Dorcas+Tunmise)](https://git.io/typing-svg)
 <h3 align="center">Software Engineer</h3>
 <div>
 <img src="https://komarev.com/ghpvc/?username=Dorcastunmise&style=flat-square&color=blue" alt="Profile counter badge" />
