@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=.....+I'm+Dorcas+Tunmise)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=🖐🌏+.....+I'm+Dorcas+Tunmise)](https://git.io/typing-svg)
 
 <h3 align="center">Software Engineer</h3>
 <div>
