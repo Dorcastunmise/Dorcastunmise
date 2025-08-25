@@ -12,7 +12,7 @@
 
 
 
-• 🔭 Just completed #100DaysOfCode, TypeScript, PHP & SDLC
+• 🔭 SDLC
 
 • 🌱 I’m currently learning Python
 
