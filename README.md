@@ -22,7 +22,7 @@
 
 • 🌱 An open source contributor
 
-• 📫 How to reach me: oluwatunmisealimi67@gmail.com
+• 📫 How to reach me: oalimi.dev@gmail.com
 
 • ⚡ Fun fact: I'm good at building enticing apps before deadlines are met.
 
